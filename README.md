@@ -1,2 +1,2 @@
 # Estrutura_de_Dados
-Estruturas de Dados em C
+Códigos em C para a disciplina de Estruturas de Dados
