@@ -8,6 +8,6 @@ Tabela de conteúdos
    * [Vetores](#tabela-de-conteudo)
    * [Lista Encadeada](#instalacao)
    * [Pilha](#como-usar)
-   * [Fila]
-   * [Árvore]
+   * [Fila](#como-usar)
+   * [Árvore](#como-usar)
 <!--te-->
