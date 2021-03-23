@@ -1,4 +1,4 @@
-# Estrutura_de_Dados
+# Estrutura de Dados
 Códigos em C para a disciplina de Estruturas de Dados
 
 Tabela de conteúdos
