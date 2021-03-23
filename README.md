@@ -9,5 +9,5 @@ Tabela de conteúdos
    * [Lista Encadeada](#instalacao)
    * [Pilha](#como-usar)
    * [Fila](#como-usar)
-   * [Árvore](#como-usar)
+   * [Árvore](#Arvore)
 <!--te-->
