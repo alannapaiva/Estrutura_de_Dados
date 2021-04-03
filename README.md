@@ -10,4 +10,6 @@ Tabela de conteúdos
    * Pilha
    * Fila
    * Árvore
+   * Fila de Prioridades
+   * BubbleSort, InsertionSort, HipSort, MergeSort e QuickSort
 <!--te-->
