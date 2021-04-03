@@ -1,7 +1,7 @@
 # Estrutura de Dados
 Códigos em C para a disciplina de Estruturas de Dados
 
-Tabela de conteúdos
+<h2>Tabela de conteúdos</h2>
 =================
 <!--ts-->
    * Tipo Abstrato de Dados
