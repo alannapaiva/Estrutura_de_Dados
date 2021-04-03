@@ -11,5 +11,5 @@ Tabela de conteúdos
    * Fila
    * Árvore
    * Fila de Prioridades
-   * BubbleSort, InsertionSort, HipSort, MergeSort e QuickSort
+   * BubbleSort, InsertionSort, HeapSort, MergeSort e QuickSort
 <!--te-->
