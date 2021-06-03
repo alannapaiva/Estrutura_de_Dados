@@ -1,16 +1,16 @@
-# Estrutura de Dados
-Códigos em C para a disciplina de Estruturas de Dados
+# Data Structure
+This is a repository with data structures algorithms and concepts using C 
 
-<h2>Tabela de conteúdos</h2>
+<h2> Contents</h2>
 
 =================
 <!--ts-->
-   * Tipo Abstrato de Dados
-   * Vetores
-   * Lista Encadeada
-   * Pilha
-   * Fila
-   * Árvore
-   * Fila de Prioridades
+   * Abstract Data Type
+   * Vectors 
+   * Linked List
+   * Stack
+   * Queue
+   * Tree
+   * Priority Queue 
    * BubbleSort, InsertionSort, HeapSort, MergeSort e QuickSort
 <!--te-->
